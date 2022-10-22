@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/tulioraze-dev/GrafanaK6.git"
   },
-  "author": "",
+  "author": "Tulio R. Azevedo",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/tulioraze-dev/GrafanaK6/issues"
